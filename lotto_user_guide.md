@@ -1,4 +1,4 @@
-# Lotto Cog - 사용자 가이드
+# Lotto - 사용자 가이드
 
 ## 명령어 설명 (Command Description)
 
