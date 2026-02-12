@@ -1,10 +1,10 @@
 # 📘 OnosBot 기능 가이드: Paring & Notice Lockdown
 
-이 가이드는 **Paring(페어링)** 기능과 **Notice Lockdown(공지 필독)** 기능에 대한 사용법을 안내합니다.
+이 가이드는 **Paring(파잉)** 기능과 **Notice Lockdown(공지 필독)** 기능에 대한 사용법을 안내합니다.
 
 ---
 
-## 🤝 Paring (페어링) 기능
+## 🤝 Paring (파잉) 기능
 
 **Paring**은 사용자 간의 1:1 매칭을 도와주는 기능입니다. 특정 요일과 시간에 신청하면, 같은 시간에 신청한 다른 사용자와 랜덤으로 매칭해 줍니다.
 
@@ -109,3 +109,4 @@
 ### ⚠️ 주의사항 (관리자)
 - **Notice Lockdown**은 채널 권한(Permission Overwrites)을 수정하므로, 서버 규모가 크거나 권한 설정이 복잡한 경우 주의해서 사용해야 합니다.
 - 봇에게 `Manage Channels` (채널 관리) 및 `Manage Roles` (역할 관리) 권한이 있어야 정상 작동합니다.
+
